@@ -6,26 +6,16 @@
      return result;
 }
 
-int a1 = 1000;
-int b1 = 12;
-int c1 = 40;
-int a2 = 1386;
-int b2 = 15;
-int c2 = 33;
-int a3 = 18;
-int b3 = 2555;
-int c3 = 380;
+int[] array = { 100, 12, 45, 65, 73, 89, 54, 156, 34,};
+int hide = array [2];
+array [2] = 0;
 
-int max1 = Max(a1,b1,c1);
-int max2 = Max(a2,b2,c2);
-int max3 = Max(a3,b3,c3);
-
-int max = Max(max1, max2, max3);
-
-int max = Max(
-    Max(a1,b1,c1),
-    Max(a2,b2,c2),
-    Max(a3,b3,c3));
+Console.WriteLine (array[2]);
 
 
-Console.WriteLine(max);
+int max = Max (Max(array[0],array[1],array[2]),
+      Max(array[3],array[4],array[5]),
+      Max(array[6],array[7],array[8])
+    );
+Console.WriteLine (max);
+Console.WriteLine (hide);
