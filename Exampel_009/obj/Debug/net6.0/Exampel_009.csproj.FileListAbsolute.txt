@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\bin\Debug\net6.0\Exampel_009.exe
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\bin\Debug\net6.0\Exampel_009.deps.json
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\bin\Debug\net6.0\Exampel_009.runtimeconfig.json
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\bin\Debug\net6.0\Exampel_009.dll
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\bin\Debug\net6.0\Exampel_009.pdb
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.AssemblyInfo.cs
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.dll
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\refint\Exampel_009.dll
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.pdb
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\Exampel_009.genruntimeconfig.cache
+C:\Users\asus\Desktop\MyHomeWork\Hello_Console\Exampel_009\obj\Debug\net6.0\ref\Exampel_009.dll
